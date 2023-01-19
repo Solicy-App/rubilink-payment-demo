@@ -40,7 +40,7 @@ function Pay() {
                         totalPriceStatus: 'FINAL',
                         totalPriceLabel: 'Total',
                         totalPrice: amount.toFixed(2),
-                        currencyCode: 'EUR',
+                         currencyCode: 'JPY',
                         countryCode: 'GB',
                     },
                 }}
